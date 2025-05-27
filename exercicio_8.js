@@ -8,7 +8,7 @@
 // Faça um programa que leia quantas horas de atividade uma pessoa teve por mês.
 // Calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
 
-let horasAtividadeNoMes = 21;
+let horasAtividadeNoMes = Number(prompt("Horas de atividade: "));
 let pontos = 0;
 
 function calcularPontos(horasAtividadeNoMes){
