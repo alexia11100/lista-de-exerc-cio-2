@@ -36,3 +36,4 @@ console.log(`Somatório: ${soma}`);
 console.log(`Menor valor: ${menor}`);
 console.log(`Média: ${media}`);
 console.log(`Quantidade de valores pares: ${pares}`);
+
